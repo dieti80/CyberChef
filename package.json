@@ -80,7 +80,7 @@
     "terser": "^5.12.1",
     "webpack": "^5.70.0",
     "webpack-bundle-analyzer": "^4.5.0",
-    "webpack-dev-server": "4.7.4",
+    "webpack-dev-server": "5.2.1",
     "webpack-node-externals": "^3.0.0",
     "worker-loader": "^3.0.8"
   },
